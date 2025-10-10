@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Miguel Mehgoss - AI Developer & Innovator</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: #f5f5f5;
+        }
+
+        header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 4rem 2rem;
+            text-align: center;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        header h1 {
+            font-size: 3rem;
+            margin-bottom: 0.5rem;
+        }
+
+        header p {
+            font-size: 1.3rem;
+            opacity: 0.95;
+        }
+
+        nav {
+            background: white;
+            padding: 1rem 2rem;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        nav ul {
+            list-style: none;
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 2rem;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: #667eea;
+            font-weight: 600;
+            transition: color 0.3s;
+        }
+
+        nav a:hover {
+            color: #764ba2;
+        }
+
+        .container {
+            max-width: 1100px;
+            margin: 0 auto;
+            padding: 3rem 2rem;
+        }
+
+        section {
+            background: white;
+            margin-bottom: 2rem;
+            padding: 3rem;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+        }
+
+        h2 {
+            color: #667eea;
+            font-size: 2rem;
+            margin-bottom: 1.5rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        h3 {
+            color: #764ba2;
+            font-size: 1.5rem;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+        }
+
+        .about-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+            margin-top: 2rem;
+        }
+
+        .about-item {
+            padding: 1.5rem;
+            background: #f8f9fa;
+            border-radius: 8px;
+            border-left: 4px solid #667eea;
+        }
+
+        .project-card {
+            background: #f8f9fa;
+            padding: 2rem;
+            border-radius: 8px;
+            margin-bottom: 2rem;
+            border-left: 4px solid #764ba2;
+        }
+
+        .project-card h3 {
+            margin-top: 0;
+        }
+
+        .tech-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin-top: 1rem;
+        }
+
+        .tag {
+            background: #667eea;
+            color: white;
+            padding: 0.3rem 0.8rem;
+            border-radius: 20px;
+            font-size: 0.85rem;
+        }
+
+        .values-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 1.5rem;
+            margin-top: 2rem;
+        }
+
+        .value-card {
+            padding: 1.5rem;
+            background: linear-gradient(135deg, #667eea22 0%, #764ba222 100%);
+            border-radius: 8px;
+            text-align: center;
+        }
+
+        .value-card h4 {
+            color: #667eea;
+            margin-bottom: 0.5rem;
+        }
+
+        .interests {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            margin-top: 1rem;
+        }
+
+        .interest-tag {
+            background: white;
+            border: 2px solid #667eea;
+            color: #667eea;
+            padding: 0.5rem 1rem;
+            border-radius: 25px;
+            font-weight: 500;
+        }
+
+        .contact-links {
+            display: flex;
+            gap: 1.5rem;
+            margin-top: 2rem;
+            flex-wrap: wrap;
+        }
+
+        .contact-btn {
+            padding: 1rem 2rem;
+            background: #667eea;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: 600;
+            transition: background 0.3s;
+        }
+
+        .contact-btn:hover {
+            background: #764ba2;
+        }
+
+        blockquote {
+            border-left: 4px solid #667eea;
+            padding-left: 1.5rem;
+            margin: 2rem 0;
+            font-style: italic;
+            color: #555;
+            background: #f8f9fa;
+            padding: 1.5rem;
+            border-radius: 5px;
+        }
+
+        footer {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 2rem;
+            margin-top: 3rem;
+        }
+
+        @media (max-width: 768px) {
+            header h1 {
+                font-size: 2rem;
+            }
+
+            header p {
+                font-size: 1.1rem;
+            }
+
+            section {
+                padding: 2rem 1.5rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>👋 Miguel Mehgoss</h1>
+        <p>🚀 Innovator | AI Developer | Financial Planner | Research Enthusiast</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#tech">Tech Stack</a></li>
+            <li><a href="#vision">Vision</a></li>
+            <li><a href="#interests">Interests</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <div class="container">
+        <section id="about">
+            <h2>🧠 About Me</h2>
+            <p>Welcome to my space! I'm a <strong>South African-based developer and entrepreneur</strong> exploring how <strong>artificial intelligence, automation, and data science</strong> can transform real-world industries — from <strong>agriculture and finance</strong> to <strong>scientific discovery</strong>.</p>
+            
+            <div class="about-grid">
+                <div class="about-item">
+                    <strong>🌍 Passionate About</strong>
+                    <p>AI-driven automation, financial innovation, and data-powered decision-making</p>
+                </div>
+                <div class="about-item">
+                    <strong>🐔 Entrepreneur</strong>
+                    <p>Building a weekend chicken farming business with smart management tools</p>
+                </div>
+                <div class="about-item">
+                    <strong>🤖 AI Developer</strong>
+                    <p>Creating content systems that generate articles, videos, and blogs automatically</p>
+                </div>
+                <div class="about-item">
+                    <strong>🔭 Researcher</strong>
+                    <p>Developing scientific AI models for exoplanet detection using NASA datasets</p>
+                </div>
+                <div class="about-item">
+                    <strong>💡 Builder</strong>
+                    <p>Crafting clean backend systems from Flask-powered blogs to AI research assistants</p>
+                </div>
+                <div class="about-item">
+                    <strong>🇿🇦 Mission</strong>
+                    <p>Empowering African entrepreneurship and research through AI and digital innovation</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="projects">
+            <h2>💼 Current Projects</h2>
+
+            <div class="project-card">
+                <h3>🪐 Exoplanet Hunter AI</h3>
+                <p>An advanced <strong>ensemble-CNN system</strong> for detecting exoplanets across multiple NASA datasets (Kepler, K2, TESS).</p>
+                <ul>
+                    <li>Designed for high generalization and accuracy (~98–99%)</li>
+                    <li>Uses deep learning + constitutional AI principles for reliable scientific outputs</li>
+                    <li>Features an interactive web interface that visualizes transit curves and classification results</li>
+                </ul>
+            </div>
+
+            <div class="project-card">
+                <h3>🌿 SA Plant Research Bot</h3>
+                <p>A Flask-based AI backend that generates SEO-optimized research articles on South African plants.</p>
+                <ul>
+                    <li>Crawls government, academic, and open APIs using Scrapy</li>
+                    <li>Generates research articles on plants, their benefits, and scientific studies</li>
+                    <li>Outputs clean HTML pages using a Jekyll-style layout</li>
+                </ul>
+            </div>
+
+            <div class="project-card">
+                <h3>🐓 Smart Poultry Tracker (Concept)</h3>
+                <p>A hybrid AI-agriculture project combining weekend hands-on care with smart data insights.</p>
+                <ul>
+                    <li>Monitor poultry growth, health, and production data</li>
+                    <li>Predict yield, automate reporting, and reduce manual tracking</li>
+                    <li>Blend practical farming with intelligent automation</li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="tech">
+            <h2>⚙️ Tech & Tools</h2>
+            
+            <h3>Languages & Frameworks</h3>
+            <div class="tech-tags">
+                <span class="tag">Python</span>
+                <span class="tag">Flask</span>
+                <span class="tag">TensorFlow</span>
+                <span class="tag">PyTorch</span>
+                <span class="tag">Scrapy</span>
+                <span class="tag">HTML/CSS</span>
+                <span class="tag">JavaScript</span>
+            </div>
+
+            <h3>AI & Data</h3>
+            <div class="tech-tags">
+                <span class="tag">Machine Learning</span>
+                <span class="tag">Deep Learning (CNN, Ensemble)</span>
+                <span class="tag">Data Analysis</span>
+                <span class="tag">Generative AI</span>
+                <span class="tag">NLP</span>
+            </div>
+
+            <h3>Other Tools</h3>
+            <div class="tech-tags">
+                <span class="tag">Git</span>
+                <span class="tag">Jupyter</span>
+                <span class="tag">OpenAI API</span>
+                <span class="tag">Alpaca Trading API</span>
+                <span class="tag">Hugging Face</span>
+            </div>
+        </section>
+
+        <section id="vision">
+            <h2>🌍 Vision & Values</h2>
+            <div class="values-grid">
+                <div class="value-card">
+                    <h4>🧩 AI for Impact</h4>
+                    <p>Using machine intelligence to improve how people live, farm, and learn</p>
+                </div>
+                <div class="value-card">
+                    <h4>📚 Research with Purpose</h4>
+                    <p>Blending open data and accessible knowledge for everyone</p>
+                </div>
+                <div class="value-card">
+                    <h4>⚖️ Balance</h4>
+                    <p>Combining tech development with real-world, small business experience</p>
+                </div>
+                <div class="value-card">
+                    <h4>🕊️ Authenticity & Curiosity</h4>
+                    <p>Every project starts with a "why" that matters</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="interests">
+            <h2>📈 Interests</h2>
+            <div class="interests">
+                <span class="interest-tag">Financial Planning & Investment Tools</span>
+                <span class="interest-tag">Machine Learning Model Optimization</span>
+                <span class="interest-tag">African Tech Ecosystems & Open Data</span>
+                <span class="interest-tag">AI-Generated Research Publishing</span>
+                <span class="interest-tag">Astronomy, Astrophysics & Space Exploration</span>
+            </div>
+        </section>
+
+        <section id="contact">
+            <h2>📫 Connect With Me</h2>
+            <blockquote>
+                "Technology becomes meaningful when it solves real human problems. My goal is to make AI accessible, practical, and impactful — one project at a time."<br>
+                <strong>— Miguel Mehgoss</strong>
+            </blockquote>
+            <div class="contact-links">
+                <a href="#" class="contact-btn">💻 GitHub</a>
+                <a href="#" class="contact-btn">✉️ Email</a>
+                <a href="#" class="contact-btn">🌐 Portfolio</a>
+            </div>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 Miguel Mehgoss. Building the future, one project at a time.</p>
+    </footer>
+
+    <script>
+        // Smooth scrolling for navigation links
+        document.querySelectorAll('nav a').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                target.scrollIntoView({
+                    behavior: 'smooth',
+                    block: 'start'
+                });
+            });
+        });
+
+        // Add scroll animation effect
+        const observerOptions = {
+            threshold: 0.1,
+            rootMargin: '0px 0px -50px 0px'
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.style.opacity = '1';
+                    entry.target.style.transform = 'translateY(0)';
+                }
+            });
+        }, observerOptions);
+
+        document.querySelectorAll('section').forEach(section => {
+            section.style.opacity = '0';
+            section.style.transform = 'translateY(20px)';
+            section.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
+            observer.observe(section);
+        });
+    </script>
+</body>
+</html>
