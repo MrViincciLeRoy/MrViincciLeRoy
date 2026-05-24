@@ -74,7 +74,7 @@ I'm passionate about using software to:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrViincciLeRoy&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrViincciLeRoy&layout=compact&theme=radical&hide_border=true&cache_seconds=1800)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrViincciLeRoy&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MrViincciLeRoy&theme=radical&hide_border=true)
 
