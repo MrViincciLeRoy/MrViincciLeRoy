@@ -72,9 +72,9 @@ I'm passionate about using software to:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrViincciLeRoy&show_icons=true&theme=radical&hide_border=true&count_private=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrViincciLeRoy&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrViincciLeRoy&layout=compact&theme=radical&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrViincciLeRoy&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MrViincciLeRoy&theme=radical&hide_border=true)
 
