@@ -57,16 +57,112 @@ I'm passionate about using software to:
 
 ## 💡 Projects
 
-### 🔊 JARVIS TOWNSHIP AI *(In Progress)*
-> An offline-first, voice-powered assistant tailored for African households. Provides homework help, local news, AI tools, and trading support — all in your home language.
+### [TTD](https://github.com/MrViincciLeRoy/TTD)
+> No description provided.
 
-### 📈 SLOVO Trading Bot
-> Python-based Forex and Crypto bot with built-in Smart Money Concept logic, price action models, and local sentiment feedback.
+![Lang](https://img.shields.io/badge/Python-informational?style=flat)
 
-### 🧠 Meneer – SA Exam Helper App
-> A chatbot/quiz tool that helps learners prep for matric in Setswana, isiZulu, English, and Sepedi. Features interactive tests and AI guidance.
+### [JFTG](https://github.com/MrViincciLeRoy/JFTG)
+> No description provided.
 
----
+![Lang](https://img.shields.io/badge/Python-informational?style=flat)
+
+### [Reddit](https://github.com/MrViincciLeRoy/Reddit)
+> No description provided.
+
+![Lang](https://img.shields.io/badge/Python-informational?style=flat)
+
+### [YTAi](https://github.com/MrViincciLeRoy/YTAi)
+> No description provided.
+
+![Lang](https://img.shields.io/badge/Python-informational?style=flat)
+
+### [L-Suite](https://github.com/MrViincciLeRoy/L-Suite)
+> No description provided.
+
+![Lang](https://img.shields.io/badge/HTML-informational?style=flat)
+
+### [linkedin_scraper](https://github.com/MrViincciLeRoy/linkedin_scraper)
+> A library that scrapes Linkedin for user data
+
+![Lang](https://img.shields.io/badge/Python-informational?style=flat)
+
+### [Job_hunter](https://github.com/MrViincciLeRoy/Job_hunter)
+> No description provided.
+
+![Lang](https://img.shields.io/badge/Python-informational?style=flat)
+
+### [financial-services](https://github.com/MrViincciLeRoy/financial-services)
+> No description provided.
+
+![Lang](https://img.shields.io/badge/Unknown-informational?style=flat)
+
+### [tendersa](https://github.com/MrViincciLeRoy/tendersa)
+> No description provided.
+
+![Lang](https://img.shields.io/badge/TypeScript-informational?style=flat)
+
+### [app](https://github.com/MrViincciLeRoy/app)
+> Job finders - find south african jobs online
+
+![Lang](https://img.shields.io/badge/Python-informational?style=flat)
+
+### [skills](https://github.com/MrViincciLeRoy/skills)
+> Public repository for Agent Skills
+
+![Lang](https://img.shields.io/badge/Unknown-informational?style=flat)
+
+### [GREASYOrchestrator](https://github.com/MrViincciLeRoy/GREASYOrchestrator)
+> No description provided.
+
+![Lang](https://img.shields.io/badge/Python-informational?style=flat)
+
+### [GREASYvideo](https://github.com/MrViincciLeRoy/GREASYvideo)
+> No description provided.
+
+![Lang](https://img.shields.io/badge/Python-informational?style=flat)
+
+### [CT-Holdings](https://github.com/MrViincciLeRoy/CT-Holdings)
+> No description provided.
+
+![Lang](https://img.shields.io/badge/HTML-informational?style=flat)
+
+### [python-whatsapp-bot](https://github.com/MrViincciLeRoy/python-whatsapp-bot)
+> Build AI WhatsApp Bots with Pure Python
+
+![Lang](https://img.shields.io/badge/Python-informational?style=flat)
+
+### [News-forex](https://github.com/MrViincciLeRoy/News-forex)
+> No description provided.
+
+![Lang](https://img.shields.io/badge/Python-informational?style=flat)
+
+### [ai-song-video-generator](https://github.com/MrViincciLeRoy/ai-song-video-generator)
+> No description provided.
+
+![Lang](https://img.shields.io/badge/Python-informational?style=flat)
+
+### [ls-web](https://github.com/MrViincciLeRoy/ls-web)
+> No description provided.
+
+![Lang](https://img.shields.io/badge/Python-informational?style=flat)
+
+### [startbootstrap-clean-blog-jekyll](https://github.com/MrViincciLeRoy/startbootstrap-clean-blog-jekyll)
+> A Jekyll version of the Clean Blog theme by Start Bootstrap
+
+![Lang](https://img.shields.io/badge/HTML-informational?style=flat)
+
+### [MGH](https://github.com/MrViincciLeRoy/MGH)
+> No description provided.
+
+![Lang](https://img.shields.io/badge/HTML-informational?style=flat)
+
+### [Mcp-srvr](https://github.com/MrViincciLeRoy/Mcp-srvr)
+> No description provided.
+
+![Lang](https://img.shields.io/badge/Python-informational?style=flat)
+
+
 
 ## 📊 GitHub Stats
 
