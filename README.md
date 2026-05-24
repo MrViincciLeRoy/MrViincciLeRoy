@@ -71,11 +71,15 @@ I'm passionate about using software to:
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrViincciLeRoy&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800)
-
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrViincciLeRoy&theme=radical)
 
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrViincciLeRoy&theme=radical)
+
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrViincciLeRoy&theme=radical)
+
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrViincciLeRoy&theme=radical&utcOffset=2)
+
+![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrViincciLeRoy&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=MrViincciLeRoy&theme=radical&hide_border=true)
 
 </div>
