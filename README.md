@@ -86,7 +86,7 @@ I'm passionate about using software to:
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrViincciLeRoy&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrViincciLeRoy&theme=react-dark&hide_border=true&area=true)](https://github.com/MrViincciLeRoy)
 
 </div>
 <div align="center">
