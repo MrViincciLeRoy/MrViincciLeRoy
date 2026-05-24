@@ -89,7 +89,9 @@ I'm passionate about using software to:
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrViincciLeRoy&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
+<div align="center">
+ 
+[![Contribution Graph](https://ghchart.rshah.org/00FF41/MrViincciLeRoy)](https://github.com/MrViincciLeRoy)</div>
 ---
 
 ## 🐍 Contribution Snake
