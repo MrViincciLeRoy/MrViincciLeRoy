@@ -58,7 +58,7 @@ I'm passionate about using software to:
 ## 💡 Projects
 
 ### [TTD](https://github.com/MrViincciLeRoy/TTD)
-> No description provided.
+> A TikTok Download and YT upload script
 
 ![Lang](https://img.shields.io/badge/Python-informational?style=flat)
 
