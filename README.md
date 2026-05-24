@@ -136,6 +136,6 @@ I believe Africa needs more dreamers who code and coders who dream. Whether it's
 
 *#Ubuntu #Code4Africa #DigitalFreedom #TownshipTech #ViincciBuiltThis*
 
-![Profile Views](https://komarev.com/ghpvc/?username=MrViincciLeRoy&color=brightgreen&style=flat-square)
+[![Profile Views](https://komarev.com/ghpvc/?username=MrViincciLeRoy&color=brightgreen&style=flat-square)] (https://github.com/MrViincciLeRoy) 
 
 </div>
