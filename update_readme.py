@@ -6,6 +6,7 @@ USERNAME = "MrViincciLeRoy"
 README_PATH = "README.md"
 SINCE = (datetime.now(timezone.utc) - timedelta(days=180)).isoformat()
 MIN_COMMITS = 20
+MAX_PROJECTS = 5
 
 def get_repos():
     repos = []
@@ -74,7 +75,8 @@ def main():
         if count >= MIN_COMMITS:
             active.append(repo)
 
-    print(f"\nFound {len(active)} active repos.")
+    active = active[:MAX_PROJECTS]
+    print(f"\nShowing top {len(active)} active repos.")
     section = build_section(active)
     update_readme(section)
 
