@@ -57,28 +57,53 @@ I'm passionate about using software to:
 
 ## 💡 Projects
 
+### [Co-Auto-Pilot](https://github.com/MrViincciLeRoy/Co-Auto-Pilot)
+> Co-Auto-Pilot is a GitHub repository scanner that uses AI to generate README files and descriptions for projects.
+
+![Lang](https://img.shields.io/badge/Python-informational?style=flat)
+
+### [YTAi](https://github.com/MrViincciLeRoy/YTAi)
+> YTAi is a YouTube shorts clipper and channel scraper
+
+![Lang](https://img.shields.io/badge/Python-informational?style=flat)
+
 ### [TTD](https://github.com/MrViincciLeRoy/TTD)
 > A TikTok Download and YT upload script
 
 ![Lang](https://img.shields.io/badge/Python-informational?style=flat)
+
+### [Reddit](https://github.com/MrViincciLeRoy/Reddit)
+> Reddit video generator and publisher
+
+![Lang](https://img.shields.io/badge/Python-informational?style=flat)
+
+### [News-forex](https://github.com/MrViincciLeRoy/News-forex)
+> News-forex project analyzes financial markets and provides insights
+
+![Lang](https://img.shields.io/badge/Python-informational?style=flat)
+
+### [GREASYvideo](https://github.com/MrViincciLeRoy/GREASYvideo)
+> GREASYvideo is a comic book analysis project with API key rotation and character tracking
+
+![Lang](https://img.shields.io/badge/Python-informational?style=flat)
+
+### [GREASYOrchestrator](https://github.com/MrViincciLeRoy/GREASYOrchestrator)
+> GREASYOrchestrator: A GitHub-based video processing pipeline
+
+![Lang](https://img.shields.io/badge/Python-informational?style=flat)
+
+### [CT-Holdings](https://github.com/MrViincciLeRoy/CT-Holdings)
+> CT Holdings is a bookkeeping and tax services firm for South African SMEs
+
+![Lang](https://img.shields.io/badge/HTML-informational?style=flat)
 
 ### [JFTG](https://github.com/MrViincciLeRoy/JFTG)
 > No description provided.
 
 ![Lang](https://img.shields.io/badge/Python-informational?style=flat)
 
-### [Reddit](https://github.com/MrViincciLeRoy/Reddit)
-> No description provided.
-
-![Lang](https://img.shields.io/badge/Python-informational?style=flat)
-
-### [YTAi](https://github.com/MrViincciLeRoy/YTAi)
-> No description provided.
-
-![Lang](https://img.shields.io/badge/Python-informational?style=flat)
-
 ### [L-Suite](https://github.com/MrViincciLeRoy/L-Suite)
-> No description provided.
+> LSuite is a Django-based project that provides a suite of financial tools and services, including bank statement parsing and social authentication.
 
 ![Lang](https://img.shields.io/badge/HTML-informational?style=flat)
 
@@ -88,7 +113,7 @@ I'm passionate about using software to:
 ![Lang](https://img.shields.io/badge/Python-informational?style=flat)
 
 ### [Job_hunter](https://github.com/MrViincciLeRoy/Job_hunter)
-> No description provided.
+> Job_hunter is a web application designed to assist job seekers in managing their resumes, cover letters, and job applications.
 
 ![Lang](https://img.shields.io/badge/Python-informational?style=flat)
 
@@ -98,67 +123,12 @@ I'm passionate about using software to:
 ![Lang](https://img.shields.io/badge/Unknown-informational?style=flat)
 
 ### [tendersa](https://github.com/MrViincciLeRoy/tendersa)
-> No description provided.
+> Tenders SA is a platform for managing tenders with features like document storage, AI-powered processing, and status updates.
 
 ![Lang](https://img.shields.io/badge/TypeScript-informational?style=flat)
 
 ### [app](https://github.com/MrViincciLeRoy/app)
 > Job finders - find south african jobs online
-
-![Lang](https://img.shields.io/badge/Python-informational?style=flat)
-
-### [skills](https://github.com/MrViincciLeRoy/skills)
-> Public repository for Agent Skills
-
-![Lang](https://img.shields.io/badge/Unknown-informational?style=flat)
-
-### [GREASYOrchestrator](https://github.com/MrViincciLeRoy/GREASYOrchestrator)
-> No description provided.
-
-![Lang](https://img.shields.io/badge/Python-informational?style=flat)
-
-### [GREASYvideo](https://github.com/MrViincciLeRoy/GREASYvideo)
-> No description provided.
-
-![Lang](https://img.shields.io/badge/Python-informational?style=flat)
-
-### [CT-Holdings](https://github.com/MrViincciLeRoy/CT-Holdings)
-> No description provided.
-
-![Lang](https://img.shields.io/badge/HTML-informational?style=flat)
-
-### [python-whatsapp-bot](https://github.com/MrViincciLeRoy/python-whatsapp-bot)
-> Build AI WhatsApp Bots with Pure Python
-
-![Lang](https://img.shields.io/badge/Python-informational?style=flat)
-
-### [News-forex](https://github.com/MrViincciLeRoy/News-forex)
-> No description provided.
-
-![Lang](https://img.shields.io/badge/Python-informational?style=flat)
-
-### [ai-song-video-generator](https://github.com/MrViincciLeRoy/ai-song-video-generator)
-> No description provided.
-
-![Lang](https://img.shields.io/badge/Python-informational?style=flat)
-
-### [ls-web](https://github.com/MrViincciLeRoy/ls-web)
-> No description provided.
-
-![Lang](https://img.shields.io/badge/Python-informational?style=flat)
-
-### [startbootstrap-clean-blog-jekyll](https://github.com/MrViincciLeRoy/startbootstrap-clean-blog-jekyll)
-> A Jekyll version of the Clean Blog theme by Start Bootstrap
-
-![Lang](https://img.shields.io/badge/HTML-informational?style=flat)
-
-### [MGH](https://github.com/MrViincciLeRoy/MGH)
-> No description provided.
-
-![Lang](https://img.shields.io/badge/HTML-informational?style=flat)
-
-### [Mcp-srvr](https://github.com/MrViincciLeRoy/Mcp-srvr)
-> No description provided.
 
 ![Lang](https://img.shields.io/badge/Python-informational?style=flat)
 
