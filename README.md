@@ -63,9 +63,32 @@ My work is driven by one idea: **Africa deserves software built for it, by it.**
 
 ## 💡 Projects
 
-> 🔄 *This section updates automatically every Sunday based on recent commit activity.*
+### [Co-Auto-Pilot](https://github.com/MrViincciLeRoy/Co-Auto-Pilot)
+> Co-Auto-Pilot is a GitHub repository scanner that uses AI to generate README files and descriptions for projects.
 
----
+![Lang](https://img.shields.io/badge/Python-informational?style=flat)
+
+### [YTAi](https://github.com/MrViincciLeRoy/YTAi)
+> YTAi is a YouTube shorts clipper and channel scraper
+
+![Lang](https://img.shields.io/badge/Python-informational?style=flat)
+
+### [TTD](https://github.com/MrViincciLeRoy/TTD)
+> A TikTok Download and YT upload script
+
+![Lang](https://img.shields.io/badge/Python-informational?style=flat)
+
+### [Reddit](https://github.com/MrViincciLeRoy/Reddit)
+> Reddit video generator and publisher
+
+![Lang](https://img.shields.io/badge/Python-informational?style=flat)
+
+### [News-forex](https://github.com/MrViincciLeRoy/News-forex)
+> News-forex project analyzes financial markets and provides insights
+
+![Lang](https://img.shields.io/badge/Python-informational?style=flat)
+
+
 
 ## 📊 GitHub Stats
 
