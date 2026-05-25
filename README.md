@@ -13,7 +13,7 @@
 
 I'm **Mr. Viincci Le Roy**, a self-taught backend developer and independent entrepreneur based in **Pretoria, South Africa**. I build real systems — financial tools, AI assistants, automation pipelines, and business integrations — solo, from scratch, with purpose.
 
-Started coding seriously in **Grade 11**, went through years of learning on dead laptops and lost computers, and now I ship production-grade software across fintech, AI, and automation.
+Started coding seriously in **2019**, went through years of learning on dead laptops and lost computers, and now I ship production-grade software across fintech, AI, and automation.
 
 My work is driven by one idea: **Africa deserves software built for it, by it.**
 
@@ -61,40 +61,9 @@ My work is driven by one idea: **Africa deserves software built for it, by it.**
 
 ---
 
-## 💡 Recent Projects
+## 💡 Projects
 
-### [L-Suite](https://github.com/MrViincciLeRoy/L-Suite)
-> Django-based financial management system for South African SMEs. Parses Capitec & TymeBank PDFs, auto-categorises transactions, syncs with ERPNext, and handles invoice management and reconciliation.
-
-![Lang](https://img.shields.io/badge/Python-informational?style=flat) ![Django](https://img.shields.io/badge/Django-informational?style=flat) ![ERPNext](https://img.shields.io/badge/ERPNext-informational?style=flat)
-
----
-
-### [Job_hunter](https://github.com/MrViincciLeRoy/Job_hunter)
-> Job scraping and AI matching app. Uses hybrid TF-IDF + semantic similarity (all-MiniLM-L6-v2) to match candidates to jobs, with structured PDF parsing and GitHub Actions compute.
-
-![Lang](https://img.shields.io/badge/Python-informational?style=flat) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-informational?style=flat)
-
----
-
-### [GREASYvideo / GREASYOrchestrator](https://github.com/MrViincciLeRoy/GREASYvideo)
-> Distributed manga/comic-to-video automation pipeline. GitHub Actions orchestration, Supabase coordination, Playwright scraping, character tracking, and narrated video generation.
-
-![Lang](https://img.shields.io/badge/Python-informational?style=flat) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-informational?style=flat)
-
----
-
-### [News-forex](https://github.com/MrViincciLeRoy/News-forex)
-> Financial market analysis pipeline. US economic calendar data (2001–2026), RSI/MACD/Bollinger Bands, GDELT news analysis, and automated CI/CD via GitHub Actions.
-
-![Lang](https://img.shields.io/badge/Python-informational?style=flat) ![Finance](https://img.shields.io/badge/Finance-informational?style=flat)
-
----
-
-### [Co-Auto-Pilot](https://github.com/MrViincciLeRoy/Co-Auto-Pilot)
-> AI-powered GitHub repo scanner that auto-generates README files and descriptions for projects. Keeps every repo documented so nothing gets lost.
-
-![Lang](https://img.shields.io/badge/Python-informational?style=flat) ![AI](https://img.shields.io/badge/AI-informational?style=flat)
+> 🔄 *This section updates automatically every Sunday based on recent commit activity.*
 
 ---
 
