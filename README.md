@@ -1,9 +1,9 @@
 <div align="center">
 
 # 👨🏽‍💻 Mr. Viincci Le Roy
-### 🧠 Developer • Visionary • Technophile • African Futurist
+### 🧠 Independent Developer • Entrepreneur • African Futurist
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Backend+Developer+%F0%9F%90%8D;AI+Systems+Builder+%F0%9F%A4%96;African+Futurist+%F0%9F%8C%9D;Township+Tech+Pioneer+%F0%9F%87%BF%F0%9F%87%A6)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Backend+Developer+%F0%9F%90%8D;AI+Systems+Builder+%F0%9F%A4%96;Fintech+%26+Automation+Engineer+%F0%9F%92%B3;African+Futurist+%F0%9F%8C%9D)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,13 +11,16 @@
 
 ## 🌍 About Me
 
-Hi, I'm **Mr. Viincci Le Roy**, a backend web developer based in **Pretoria, South Africa**. I specialize in building scalable Python-based systems, crafting intelligent AI assistants, and coding tools that empower communities. My work merges code with culture, technology with humanity, and vision with execution.
+I'm **Mr. Viincci Le Roy**, a self-taught backend developer and independent entrepreneur based in **Pretoria, South Africa**. I build real systems — financial tools, AI assistants, automation pipelines, and business integrations — solo, from scratch, with purpose.
 
-I'm passionate about using software to:
-- Teach & uplift youth through accessible apps in **South African languages** 🇿🇦
-- Trade smarter with AI bots powered by **Smart Money Concepts (SMC)**
-- Explore the cosmos, history, and human psyche through **fiction, horror, and art**
-- Help Africa evolve through tech like my dream project: **JARVIS for the township**
+Started coding seriously in **Grade 11**, went through years of learning on dead laptops and lost computers, and now I ship production-grade software across fintech, AI, and automation.
+
+My work is driven by one idea: **Africa deserves software built for it, by it.**
+
+- 💳 Building **LSuite** — a full financial management system for South African SMEs
+- 🤖 Building **SEMBLANCE** — a personal AI assistant with multi-agent memory and emotion modelling
+- 📊 Automating markets, pipelines, and workflows with Python + GitHub Actions
+- 🛠️ Deploying on **Render + Aiven MySQL + Modal + Groq**
 
 ---
 
@@ -27,117 +30,78 @@ I'm passionate about using software to:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 **Frameworks & Tools**
 
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 **Databases & Cloud**
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Aiven](https://img.shields.io/badge/Aiven-FF3B30?style=for-the-badge&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Modal](https://img.shields.io/badge/Modal-000000?style=for-the-badge&logoColor=white)
 
-**AI & Special Interests**
+**AI & Integrations**
 
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_Claude-191919?style=for-the-badge&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ERPNext](https://img.shields.io/badge/ERPNext-0089FF?style=for-the-badge&logoColor=white)
 
 ---
 
-## 💡 Projects
-
-### [Co-Auto-Pilot](https://github.com/MrViincciLeRoy/Co-Auto-Pilot)
-> Co-Auto-Pilot is a GitHub repository scanner that uses AI to generate README files and descriptions for projects.
-
-![Lang](https://img.shields.io/badge/Python-informational?style=flat)
-
-### [YTAi](https://github.com/MrViincciLeRoy/YTAi)
-> YTAi is a YouTube shorts clipper and channel scraper
-
-![Lang](https://img.shields.io/badge/Python-informational?style=flat)
-
-### [TTD](https://github.com/MrViincciLeRoy/TTD)
-> A TikTok Download and YT upload script
-
-![Lang](https://img.shields.io/badge/Python-informational?style=flat)
-
-### [Reddit](https://github.com/MrViincciLeRoy/Reddit)
-> Reddit video generator and publisher
-
-![Lang](https://img.shields.io/badge/Python-informational?style=flat)
-
-### [News-forex](https://github.com/MrViincciLeRoy/News-forex)
-> News-forex project analyzes financial markets and provides insights
-
-![Lang](https://img.shields.io/badge/Python-informational?style=flat)
-
-### [GREASYvideo](https://github.com/MrViincciLeRoy/GREASYvideo)
-> GREASYvideo is a comic book analysis project with API key rotation and character tracking
-
-![Lang](https://img.shields.io/badge/Python-informational?style=flat)
-
-### [GREASYOrchestrator](https://github.com/MrViincciLeRoy/GREASYOrchestrator)
-> GREASYOrchestrator: A GitHub-based video processing pipeline
-
-![Lang](https://img.shields.io/badge/Python-informational?style=flat)
-
-### [CT-Holdings](https://github.com/MrViincciLeRoy/CT-Holdings)
-> CT Holdings is a bookkeeping and tax services firm for South African SMEs
-
-![Lang](https://img.shields.io/badge/HTML-informational?style=flat)
-
-### [JFTG](https://github.com/MrViincciLeRoy/JFTG)
-> No description provided.
-
-![Lang](https://img.shields.io/badge/Python-informational?style=flat)
+## 💡 Recent Projects
 
 ### [L-Suite](https://github.com/MrViincciLeRoy/L-Suite)
-> LSuite is a Django-based project that provides a suite of financial tools and services, including bank statement parsing and social authentication.
+> Django-based financial management system for South African SMEs. Parses Capitec & TymeBank PDFs, auto-categorises transactions, syncs with ERPNext, and handles invoice management and reconciliation.
 
-![Lang](https://img.shields.io/badge/HTML-informational?style=flat)
+![Lang](https://img.shields.io/badge/Python-informational?style=flat) ![Django](https://img.shields.io/badge/Django-informational?style=flat) ![ERPNext](https://img.shields.io/badge/ERPNext-informational?style=flat)
 
-### [linkedin_scraper](https://github.com/MrViincciLeRoy/linkedin_scraper)
-> A library that scrapes Linkedin for user data
-
-![Lang](https://img.shields.io/badge/Python-informational?style=flat)
+---
 
 ### [Job_hunter](https://github.com/MrViincciLeRoy/Job_hunter)
-> Job_hunter is a web application designed to assist job seekers in managing their resumes, cover letters, and job applications.
+> Job scraping and AI matching app. Uses hybrid TF-IDF + semantic similarity (all-MiniLM-L6-v2) to match candidates to jobs, with structured PDF parsing and GitHub Actions compute.
 
-![Lang](https://img.shields.io/badge/Python-informational?style=flat)
+![Lang](https://img.shields.io/badge/Python-informational?style=flat) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-informational?style=flat)
 
-### [financial-services](https://github.com/MrViincciLeRoy/financial-services)
-> No description provided.
+---
 
-![Lang](https://img.shields.io/badge/Unknown-informational?style=flat)
+### [GREASYvideo / GREASYOrchestrator](https://github.com/MrViincciLeRoy/GREASYvideo)
+> Distributed manga/comic-to-video automation pipeline. GitHub Actions orchestration, Supabase coordination, Playwright scraping, character tracking, and narrated video generation.
 
-### [tendersa](https://github.com/MrViincciLeRoy/tendersa)
-> Tenders SA is a platform for managing tenders with features like document storage, AI-powered processing, and status updates.
+![Lang](https://img.shields.io/badge/Python-informational?style=flat) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-informational?style=flat)
 
-![Lang](https://img.shields.io/badge/TypeScript-informational?style=flat)
+---
 
-### [app](https://github.com/MrViincciLeRoy/app)
-> Job finders - find south african jobs online
+### [News-forex](https://github.com/MrViincciLeRoy/News-forex)
+> Financial market analysis pipeline. US economic calendar data (2001–2026), RSI/MACD/Bollinger Bands, GDELT news analysis, and automated CI/CD via GitHub Actions.
 
-![Lang](https://img.shields.io/badge/Python-informational?style=flat)
+![Lang](https://img.shields.io/badge/Python-informational?style=flat) ![Finance](https://img.shields.io/badge/Finance-informational?style=flat)
 
+---
 
+### [Co-Auto-Pilot](https://github.com/MrViincciLeRoy/Co-Auto-Pilot)
+> AI-powered GitHub repo scanner that auto-generates README files and descriptions for projects. Keeps every repo documented so nothing gets lost.
+
+![Lang](https://img.shields.io/badge/Python-informational?style=flat) ![AI](https://img.shields.io/badge/AI-informational?style=flat)
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
- 
+
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrViincciLeRoy&theme=radical)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrViincciLeRoy&theme=radical)
@@ -147,6 +111,7 @@ I'm passionate about using software to:
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrViincciLeRoy&theme=radical&utcOffset=2)
 
 ![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrViincciLeRoy&theme=radical)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=MrViincciLeRoy&theme=radical&hide_border=true)
 
 </div>
@@ -159,10 +124,10 @@ I'm passionate about using software to:
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrViincciLeRoy&theme=react-dark&hide_border=true&area=true)](https://github.com/MrViincciLeRoy)
 
+[![Contribution Graph](https://ghchart.rshah.org/00FF41/MrViincciLeRoy)](https://github.com/MrViincciLeRoy)
+
 </div>
-<div align="center">
- 
-[![Contribution Graph](https://ghchart.rshah.org/00FF41/MrViincciLeRoy)](https://github.com/MrViincciLeRoy)</div>
+
 ---
 
 ## 🐍 Contribution Snake
@@ -179,12 +144,15 @@ I'm passionate about using software to:
 
 ---
 
-## 🎨 I'm Also Into…
+## 🎨 Beyond the Code
 
-- Drawing and painting with hidden meanings from African plants 🌿
-- Writing horror stories (*Gas Station Chronicles*, *Jacaranda Butcher*) 👻
-- Manga & AI-generated comics with urban horror and Afro-futurist themes 📚
-- Studying astronomy, robotics, African history, and psychology 🛰️
+- ♟️ Chess player — aggressive openings, Sicilian Dragon as Black, Nimzo-Larsen/Reti hybrid as White
+- 🎮 Mobile gaming (Mech Arena)
+- 📖 Watchtower & Bible study
+- 🌿 Drawing and painting with hidden meanings from African plants
+- 👻 Writing horror stories (*Gas Station Chronicles*, *Jacaranda Butcher*)
+- 📚 Manga & AI-generated comics with urban horror and Afro-futurist themes
+- 🛰️ Studying astronomy, robotics, African history, and psychology
 
 ---
 
@@ -193,7 +161,7 @@ I'm passionate about using software to:
 > *"Tech should not only innovate — but liberate."*
 > *– Mr. Viincci Le Roy*
 
-I believe Africa needs more dreamers who code and coders who dream. Whether it's through AI, clean energy systems for townships, or education apps for the youth — I'm building what I want to see in the world.
+Self-taught from Grade 11. No university. No shortcuts. Just code, vision, and execution — built from Pretoria for the world.
 
 ---
 
@@ -207,6 +175,6 @@ I believe Africa needs more dreamers who code and coders who dream. Whether it's
 
 *#Ubuntu #Code4Africa #DigitalFreedom #TownshipTech #ViincciBuiltThis*
 
-[![Profile Views](https://komarev.com/ghpvc/?username=MrViincciLeRoy&color=brightgreen&style=flat-square)](https://github.com/MrViincciLeRoy) 
+[![Profile Views](https://komarev.com/ghpvc/?username=MrViincciLeRoy&color=brightgreen&style=flat-square)](https://github.com/MrViincciLeRoy)
 
 </div>
