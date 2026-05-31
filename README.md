@@ -63,18 +63,13 @@ My work is driven by one idea: **Africa deserves software built for it, by it.**
 
 ## 💡 Projects
 
-### [Co-Auto-Pilot](https://github.com/MrViincciLeRoy/Co-Auto-Pilot)
-> Co-Auto-Pilot is a GitHub repository scanner that uses AI to generate README files and descriptions for projects.
+### [MrViincciLeRoy](https://github.com/MrViincciLeRoy/MrViincciLeRoy)
+> .
 
-![Lang](https://img.shields.io/badge/Python-informational?style=flat)
+![Lang](https://img.shields.io/badge/HTML-informational?style=flat)
 
-### [YTAi](https://github.com/MrViincciLeRoy/YTAi)
-> YTAi is a YouTube shorts clipper and channel scraper
-
-![Lang](https://img.shields.io/badge/Python-informational?style=flat)
-
-### [TTD](https://github.com/MrViincciLeRoy/TTD)
-> A TikTok Download and YT upload script
+### [youtube-shorts-gen](https://github.com/MrViincciLeRoy/youtube-shorts-gen)
+> No description provided.
 
 ![Lang](https://img.shields.io/badge/Python-informational?style=flat)
 
@@ -83,8 +78,13 @@ My work is driven by one idea: **Africa deserves software built for it, by it.**
 
 ![Lang](https://img.shields.io/badge/Python-informational?style=flat)
 
-### [News-forex](https://github.com/MrViincciLeRoy/News-forex)
-> News-forex project analyzes financial markets and provides insights
+### [sa-dev-stats](https://github.com/MrViincciLeRoy/sa-dev-stats)
+> No description provided.
+
+![Lang](https://img.shields.io/badge/HTML-informational?style=flat)
+
+### [Co-Auto-Pilot](https://github.com/MrViincciLeRoy/Co-Auto-Pilot)
+> Co-Auto-Pilot is a GitHub repository scanner that uses AI to generate README files and descriptions for projects.
 
 ![Lang](https://img.shields.io/badge/Python-informational?style=flat)
 
