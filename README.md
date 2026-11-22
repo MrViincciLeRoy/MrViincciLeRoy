@@ -63,28 +63,8 @@ My work is driven by one idea: **Africa deserves software built for it, by it.**
 
 ## 💡 Projects
 
-### [MrViincciLeRoy](https://github.com/MrViincciLeRoy/MrViincciLeRoy)
-> .
-
-![Lang](https://img.shields.io/badge/HTML-informational?style=flat)
-
 ### [youtube-shorts-gen](https://github.com/MrViincciLeRoy/youtube-shorts-gen)
 > No description provided.
-
-![Lang](https://img.shields.io/badge/Python-informational?style=flat)
-
-### [Reddit](https://github.com/MrViincciLeRoy/Reddit)
-> Reddit video generator and publisher
-
-![Lang](https://img.shields.io/badge/Python-informational?style=flat)
-
-### [sa-dev-stats](https://github.com/MrViincciLeRoy/sa-dev-stats)
-> No description provided.
-
-![Lang](https://img.shields.io/badge/HTML-informational?style=flat)
-
-### [Co-Auto-Pilot](https://github.com/MrViincciLeRoy/Co-Auto-Pilot)
-> Co-Auto-Pilot is a GitHub repository scanner that uses AI to generate README files and descriptions for projects.
 
 ![Lang](https://img.shields.io/badge/Python-informational?style=flat)
 
